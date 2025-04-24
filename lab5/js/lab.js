@@ -33,10 +33,7 @@ function myFunction(param1, param2) {
   // return results;
 }
 
-function main() {
-  document.writeln("Main function started.");
-  // the code that makes everything happen
-}
+
 
 // let's get this party started
 main();

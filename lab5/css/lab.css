@@ -4,6 +4,71 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #99b0c5;
+    background-color: #dad2e7;
+    text-align: center;
+  
+    
   }
+
+
+  #lab5-images-car {
+width: 500px;
+align-content: center;
+border: #c4c5dd; 
+padding: auto;
+
+  }
+
+#lab5-images-cat {
+width: 800px;
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+#lab5-images-console {
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#lab5-images-js {
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+  #output { 
+    font-family: monospace;
+  }
+
+  h1,h2,h3,h4 { 
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
+   
+  }
+
+  p {
+    text-align: center;
+  }
+
+  #lab5-images-wesbot {
+    width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+
+
+
+ 
+
