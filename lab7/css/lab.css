@@ -1,0 +1,47 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 5px #8556a4;
+    border-radius: 25px; 
+    background-color: #ffffff;
+    width: auto;
+    padding: 20px;
+    height: auto;
+    font-size: large;
+    text-align:start
+    
+   
+  }
+
+  .hr.rounded{
+    border-top: 10px solid #6989c5;
+    border-radius: 8px;
+    border-width: 10px;
+  }
+
+#content {
+    border: #6989c5 solid 5px;
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+    text-align: right;
+  }
+
+  #lab7-image-console{
+  width: 800px;
+  border-radius: 50px;
+    
+
+  }
+
+  #lab7-image-code{
+  width: 800px;
+  border-radius: 50px;
+  }
+
+  #lab7-sad-cat{
+    width: 400px;
+    border-radius: 50%;
+    float: left;
+  }
