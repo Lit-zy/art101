@@ -1,0 +1,45 @@
+p {
+    
+    margin-bottom: 10px;
+    border: solid 5px #5ea456;
+    border-radius: 25px; 
+    background-color: #cde1ea;
+    width: auto;
+    padding: 20px;
+    height: auto;
+    font-size: larger;
+    text-align:start;
+    color: rgb(179, 0, 255);
+    
+  }
+body {
+    background-color: rgba(208, 148, 208, 0.704);
+    font-family: monospace;
+}
+
+h1,h2,h3 {
+    color: #ffffff;
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+
+  .hr.rounded{
+    border-top: 10px solid;
+    border-radius: 8px;
+    border-width: 10px;
+  }
+
+#content {
+    border: #6989c5 solid 5px;
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+    text-align: center;
+  }
+
+  #lab-console {
+    width:600px ;
+    border: radius 50px; ;
+  }
