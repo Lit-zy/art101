@@ -1,0 +1,83 @@
+.text p{
+    display:inline-block;
+    max-width: 60%;
+    margin: 3px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: rgb(188, 218, 241);
+    color: rgb(47, 90, 21);
+    font-family: 'Lucida Sans';
+    font-size: 0.em;
+    }
+    
+    body {
+        background-color: rgba(222, 235, 159, 0.704);
+        font-family: monospace;
+    }
+    
+    h1,h2,h3 {
+        color: #db9423;
+        font-size: xx-large;
+        font-family: monospace;
+    }
+    
+    
+    .hr.rounded{
+        border-top: 10px solid;
+        border-radius: 8px;
+        border-width: 10px;
+      }
+
+    #Challenge{
+       
+        padding: 10px;
+        width: auto;
+        height: auto;
+        font-size: larger;
+    }
+
+    #Problems{
+       
+        padding: 20px;
+        width: auto;
+        height: auto;
+        font-size: larger;
+    }
+    
+    #Results{
+        border: groove rgb(188, 218, 241) 10px;
+        border-radius: 15px 50px;
+        padding: 15px;
+        width: auto;
+        height: auto;
+        font-size: larger;
+    }
+    
+    #content {
+        border: #ffffff dotted 15px;
+        border-radius: 25px;
+        padding: 20px;
+        width: auto;
+        height: auto;
+        text-align: center;
+        background-color: rgb(123, 198, 251);
+    }
+    
+    #console {
+        width: 40%;
+        border-radius: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #tired{ 
+    width: 400px;
+    float: left;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+
+
+    }
