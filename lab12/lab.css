@@ -4,19 +4,19 @@
     margin: 3px;
     padding: 5px 10px;
     border-radius: 15px;
-    background-color: rgb(220, 188, 241);
-    color: rgb(47, 90, 21);
+    background-color: rgb(188, 191, 241);
+    color: rgb(21, 22, 90);
     font-family: 'Lucida Sans';
     font-size: 0.em;
     }
     
     body {
-        background-color: rgba(222, 235, 159, 0.704);
+        background-color: rgba(219, 159, 235, 0.891);
         font-family: monospace;
     }
     
     h1,h2,h3 {
-        color: #db9423;
+        color: #db2379;
         font-size: xx-large;
         font-family: monospace;
     }
@@ -45,7 +45,7 @@
     }
     
     #Results{
-        border: groove rgb(237, 188, 241) 10px;
+        border: groove rgb(188, 218, 241) 10px;
         border-radius: 15px 50px;
         padding: 15px;
         width: auto;
@@ -60,7 +60,7 @@
         width: auto;
         height: auto;
         text-align: center;
-        background-color: rgb(185, 123, 251);
+        background-color: rgb(251, 176, 123);
     }
     
     #console {
@@ -71,13 +71,7 @@
         margin-right: auto;
     }
 
-    #tired{ 
-    width: 400px;
-    float: left;
-    padding-top: 50px;
-    padding-right: 50px;
-    padding-bottom: 30px;
-    padding-left: 50px;
-
-
+    #jsbin {
+       width: 800px; 
+       border-radius: 50px;
     }

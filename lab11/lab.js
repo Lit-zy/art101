@@ -1,7 +1,4 @@
-//Lab J.S. - JavaScript Events and Forms 
-//Requirements: Experimenting with JS events 
-//Author: Litzy M. Franyutti 
-//Date: May 19, 2025
+2
 
 
 //Sorts the characters of a string in alphabetical order
