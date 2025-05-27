@@ -12,3 +12,8 @@ p {
   font-size: large;
 }
 
+.column-list{
+  column-count: 4;
+  font-size: large;
+  color: darkmagenta;
+}
