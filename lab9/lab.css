@@ -66,3 +66,19 @@ h1,h2,h3 {
     margin-left: auto;
     margin-right: auto; 
 }
+
+#imageCapybara {
+  width: 40%;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#discoCat {
+  width: 40%;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
