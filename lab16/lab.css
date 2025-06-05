@@ -17,7 +17,7 @@ button {
     width: auto;
     height: auto;
     text-align: center;
-    background-image: url(/img/space.jpg);
+
   }
 
    h1, h2, h3 {
@@ -28,7 +28,7 @@ button {
     }
 
 h1{
-    color: rgb(89, 239, 72);
+    color: rgb(198, 205, 202);
 }
 
 p{

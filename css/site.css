@@ -14,7 +14,7 @@ h1,h2,h3 {
 
 p { 
   font-family: monospace;
-  color: #c3b249;
+  color: #000000;
 }
 /* and we can have rules that overlap other rules, both take effect */
 h1 {
@@ -22,7 +22,7 @@ h1 {
   word-spacing: 12px;
   font-size: 200%;
   text-align: left;
-  color: #c3b249;
+  color: #000000;
 }
 
 /* the hashtag in a CSS selector selects an element by id, e.g., id="content" */
@@ -37,7 +37,7 @@ h1 {
 section {
   padding: 2px;
   margin-bottom: 2px;
-  background-image: url(/img/space.jpg);
+  background-color: rgb(230, 213, 128);
 }
 
 
